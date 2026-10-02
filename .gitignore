@@ -1,0 +1,6 @@
+#Entorno virtual
+env/
+
+#Archivo fuentes y salida
+#data/processed/*.parquet
+#data/processed/*.csv
