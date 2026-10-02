@@ -1,4 +1,4 @@
-# 💳 ETL25-TRANSACCIONES_FINANCIERAS: Ingesta Financiera y Conversión de Monedas
+# 💳 ETL02-TRANSACCIONES_FINANCIERAS: Ingesta Financiera y Conversión de Monedas
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-150458?logo=pandas)
@@ -74,7 +74,7 @@ Estandarización de Esquema:
 
 📂 Estructura del Proyecto
 
-ETL25-TRANSACCIONES_FINANCIERAS/
+ETL02-TRANSACCIONES_FINANCIERAS/
 ├── data/
 │   ├── processed/
 │   │   ├── pago_consolidado.parquet
@@ -97,8 +97,8 @@ Prerrequisitos
 Python 3.10 o superior.
 
 1. Clonar el repositorio
-git clone [https://github.com/TU_USUARIO/ETL24-VENTAS.git](https://github.com/TU_USUARIO/ETL24-VENTAS.git)
-cd ETL24-VENTAS
+git clone [https://github.com/josejuanlunavazquez22-ship-it/ETL02-TRANSACCIONES_FINANCIERAS)
+cd ETL02-TRANSACCIONES_FINANCIERAS
 
 2. Crear e inicializar el entorno virtual
 # En Linux/macOS:
